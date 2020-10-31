@@ -22,5 +22,10 @@
 ##### Build
 
 ```bash
+  yarn
   yarn build:inline
 ```
+
+### 其他
+
+不支持 lazyload 与 `background` 属性的图片
