@@ -1,6 +1,6 @@
 {
   "name": "img-error-autofill",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "dist/img-error-autofill.cjs.js",
   "browser": "dist/img-error-autofill.umd.js",
   "module": "dist/img-error-autofill.esm.js",
@@ -18,8 +18,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "cross-env NODE_ENV=production rollup -c",
-    "build:inline": "cross-env NODE_ENV=production CSS_STATUS=inline rollup -c"
+    "build": "cross-env NODE_ENV=production CSS_STATUS=inline rollup -c"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",

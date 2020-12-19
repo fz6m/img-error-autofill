@@ -2,13 +2,15 @@
 
 自动填充网页上外链失效图片为默认图片
 
+*version: 1.1*
+
 ### 使用
 
 ```html
 <body>
 
   <!-- 在页面最后引入 -->
-  <script src="https://cdn.jsdelivr.net/gh/fz6m/img-error-autofill@1.0/dist/img-error-autofill.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/fz6m/img-error-autofill@1.1/dist/img-error-autofill.min.js"></script>
 
 </body>
 ```
@@ -23,7 +25,7 @@
 
 ```bash
   yarn
-  yarn build:inline
+  yarn build
 ```
 
 ### 其他

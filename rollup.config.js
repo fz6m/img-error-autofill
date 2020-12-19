@@ -36,6 +36,11 @@ const out = [
     file: pkg.browser,
     format: 'umd',
     name: upperFirst(filename)
+  },
+  {
+    file: pkg.browser.replace('umd.', ''),
+    format: 'umd',
+    name: upperFirst(filename)
   }
 ]
 

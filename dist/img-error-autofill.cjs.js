@@ -38,4 +38,4 @@ var load = function load() {
   }
 };
 
-load();
+document.addEventListener('DOMContentLoaded', load); // load()

@@ -10,4 +10,4 @@ const load = () => {
   }
 }
 
-load()
+document.addEventListener('DOMContentLoaded', load)
