@@ -7,12 +7,12 @@
 ### 使用
 
 ```html
-<body>
+<head>
 
-  <!-- 在页面最后引入 -->
+  <!-- ...... -->
   <script src="https://cdn.jsdelivr.net/gh/fz6m/img-error-autofill@1.1/dist/img-error-autofill.min.js"></script>
 
-</body>
+</head>
 ```
 
 ### 开发
