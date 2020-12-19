@@ -6,9 +6,12 @@
 
 ### example
 
-![](https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20201220021200.png)
+<img src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20201220021200.png' width='30%'>
 
-![](https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20201220021215.png)
+<br>
+
+<img src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe/img/20201220021215.png' width='50%'>
+
 
 ### usage
 
